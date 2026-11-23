@@ -22,3 +22,17 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+![Streak Stats](https://streak-stats.demolab.com/?user=anilaa02&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilaa02&layout=compact&theme=dark)
+![Total Stats](https://github-readme-stats.vercel.app/api?username=anilaa02&show_icons=true&theme=dark)
+
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=anilaa02&theme=darkhub&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+## ✍️ Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
