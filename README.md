@@ -31,7 +31,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=anilaa02&theme=darkhub&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## ✍️ Random Dev Quote
 
